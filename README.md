@@ -1,1 +1,1 @@
-### Kernel 4.18 por amd64
+### Kernel 4.18 for amd64
